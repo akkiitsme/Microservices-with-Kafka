@@ -9,3 +9,6 @@ bin\windows\kafka-console-consumer.bat --topic location-track-topic --from-begin
 
 
 ![image](https://github.com/akkiitsme/Microservices-with-Kafka/assets/61555659/98829db0-8933-4a6d-99f3-b309b056db10)
+
+![image](https://github.com/akkiitsme/Microservices-with-Kafka/assets/61555659/558dfbc6-905c-4a22-848e-79b06558b97b)
+
