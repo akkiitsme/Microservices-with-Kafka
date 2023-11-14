@@ -1,10 +1,11 @@
 # Microservices-with-Kafka
-
--------------------------KAFKA Commnands ----------------------------
+Download Kafka from here  : https://kafka.apache.org/quickstart
+Go to Folder - D:\kafka_2.13-3.6.0 | start CMD
+-------------------------KAFKA Commands ----------------------------
 1. bin\windows\zookeeper-server-start.bat config\zookeeper.properties
 2. bin\windows\kafka-server-start.bat config\server.properties
 
-------For SEE Consumes on Console---
+------For SEE Consumes messages on Console---
 bin\windows\kafka-console-consumer.bat --topic location-track-topic --from-beginning --bootstrap-server localhost:9092
 
 
